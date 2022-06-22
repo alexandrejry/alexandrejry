@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexandrejry&theme=slateorange)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=alexandrejry&show_icons=true&theme=slateorange" width="400">
